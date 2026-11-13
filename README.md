@@ -47,6 +47,7 @@ I enjoy building **data pipelines, cloud-based systems, and analytics solutions*
 - ☁️ **Currently focused on:** Python, SQL, AWS, cloud data engineering, and scalable pipelines.
 - 🏅 **Certified:** AWS Certified Cloud Practitioner, plus Google Analytics, Google Ads, Meta and Reddit measurement certifications.
 - 📚 **Studying:** AWS Solutions Architect – Associate, while expanding my experience with Spark, Kafka, and data modeling.
+- 🏆 **Winner:** Sheridan Datathon 2026 — **Best Use of TigerData** with [ChequeMate](https://chequemate.work/).
 - 🤝 **Community:** AWS Student Builder Group at Sheridan; MeasureCamp Toronto speaker.
 
 <div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:6D5EF8,100:0D1117&height=3" alt="" /></div>
@@ -575,20 +576,23 @@ Other services come from AWS Academy labs, certification preparation, and ongoin
 
 </div>
 
-### 🏦 [ChequeMate — Financial Resilience Engine](https://github.com/abhishek8524/ChequeMate)
+### 🏆 [ChequeMate — Financial Resilience Engine](https://github.com/abhishek8524/ChequeMate)
 
-*Sheridan Datathon 2026 · Team project · 🏆 Winner — Best Use of TigerData*
+<p>
+<img src="https://img.shields.io/badge/%F0%9F%8F%86_WINNER-Best_Use_of_TigerData-FDB515?style=for-the-badge" alt="Winner — Best Use of TigerData" />
+<img src="https://img.shields.io/badge/Sheridan_Datathon-2026-1F6FEB?style=for-the-badge" alt="Sheridan Datathon 2026" />
+</p>
+
+**🏆 Datathon winners — Best Use of TigerData.** Team project at Sheridan Datathon 2026.
 
 **Can you survive a financial shock?** ChequeMate helps users understand their financial runway and explore what-if scenarios such as job loss, rising bills, and unexpected expenses.
 
-- **Award:** Won **Best Use of TigerData** at Sheridan Datathon 2026.
 - Worked with **1M+ transactions across 4,500 accounts**.
 - Built and analyzed data through **GCS → BigQuery (Bronze / Silver / Gold) → TigerData (PostgreSQL)**.
 - Contributed to **SQL transformations, validated financial metrics, historical analysis, and pipeline integration**.
 - Explored financial runway, cash-flow timing, and compound-shock scenarios.
 
 <p>
-<img src="https://img.shields.io/badge/🏆_Best_Use_of_TigerData-FDB515?style=flat-square" alt="Best Use of TigerData winner" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery" />
