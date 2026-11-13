@@ -50,11 +50,11 @@ I enjoy building **data pipelines, cloud-based systems, and analytics solutions*
 - 🏆 **Winner:** Sheridan Datathon 2026 — **Best Use of TigerData** with [ChequeMate](https://chequemate.work/).
 - 🤝 **Community:** AWS Student Builder Group at Sheridan; MeasureCamp Toronto speaker.
 
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:6D5EF8,100:0D1117&height=3" alt="" /></div>
+
 <div align="center">
 
 ## 🛠️ Tech Stack
-
-<img width="40%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:6D5EF8,100:0D1117&height=2" alt="" />
 
 <div align="center">
 
