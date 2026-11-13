@@ -58,10 +58,6 @@ I enjoy building **data pipelines, cloud-based systems, and analytics solutions*
 
 <img width="40%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:6D5EF8,100:0D1117&height=2" alt="" />
 
-<p><em>Technologies from professional work, GitHub projects, college labs, certification study, and my data engineering learning roadmap.</em></p>
-
-<br />
-
 <div align="center">
 
 ### Languages and Web
