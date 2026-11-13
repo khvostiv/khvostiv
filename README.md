@@ -1,6 +1,6 @@
 <!--
   GitHub profile README for github.com/khvostiv
-  Pin featured projects: ChequeMate, ProjectPilot AI, Goal Coach AI, Virtual Piano.
+  Pin featured projects: ChequeMate, ProjectPilot AI, Goal Coach AI, Virtual Piano, Piano Piece Tracker.
 
   Optional: after the first Actions run of snake.yml, uncomment the contribution
   snake block near the bottom of this file.
@@ -694,6 +694,30 @@ An Angular app that charts the most popular programming languages from the Stack
 
 <br />
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎼 [Piano Piece Tracker](https://github.com/khvostiv/music-practice-management-system)
+**Music Practice Management System**
+
+A Spring Boot studio for a personal piano repertoire: pieces, sheet-music PDFs, timed practice sessions, and learning goals. JWT login, Thymeleaf pages plus a REST API, MySQL, and Amazon S3 for uploads. Dashboard totals for pieces, practice time, and goals.
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" alt="Thymeleaf" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" />
+</p>
+
+<a href="https://khvostiv.github.io/music-practice-management-system/"><img src="https://img.shields.io/badge/Live_Demo-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open the Piano Piece Tracker live demo" /></a>
+<a href="https://github.com/khvostiv/music-practice-management-system"><img src="https://img.shields.io/badge/View_Repo-7C6AF2?style=for-the-badge&logo=github&logoColor=white" alt="View the Music Practice Management System repository" /></a>
+
+</td>
+<td width="50%" valign="top">
+
 ### 🤖 [Autonomous Agent](https://github.com/khvostiv/autonomous-agent)
 *AWS workshop fork · exploring tool calling*
 
@@ -709,6 +733,10 @@ A beginner-friendly serverless to-do agent on AWS. Users describe tasks in natur
 </p>
 
 <a href="https://github.com/khvostiv/autonomous-agent"><img src="https://img.shields.io/badge/View_Repo-7C6AF2?style=for-the-badge&logo=github&logoColor=white" alt="View the Autonomous Agent repository" /></a>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 <br />
