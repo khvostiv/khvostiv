@@ -45,7 +45,7 @@ I enjoy building **data pipelines, cloud-based systems, and analytics solutions*
 
 - 🧩 **Previously:** Analytics Engineer at **TRADER Corporation** (Toronto, Jan–Dec 2025) — GTM/GA4, server-side tagging, and measurement integrations.
 - ☁️ **Currently focused on:** Python, SQL, AWS, cloud data engineering, and scalable pipelines.
-- 🏅 **Certified:** AWS Certified Cloud Practitioner, plus Google Analytics, Google Ads, Meta and Reddit measurement certifications.
+- 🏅 **Certified:** AWS Certified Cloud Practitioner and AWS Academy Graduate — Cloud Architecting, plus Google Analytics, Google Ads, Meta and Reddit measurement certifications.
 - 📚 **Studying:** AWS Solutions Architect – Associate, while expanding my experience with Spark, Kafka, and data modeling.
 - 🏆 **Winner:** Sheridan Datathon 2026 — **Best Use of TigerData** with [ChequeMate](https://chequemate.work/).
 - 🤝 **Community:** AWS Student Builder Group at Sheridan; MeasureCamp Toronto speaker.
@@ -759,37 +759,43 @@ A beginner-friendly serverless to-do agent on AWS. Users describe tasks in natur
 
 <table>
 <tr>
-<td align="center" width="16%">
+<td align="center" width="14%">
 <a href="https://www.credly.com/badges/bf9e73f6-6e87-4edf-99a1-ded35fa13022/public_url">
 <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="72" alt="" />
 <br /><sub><b>AWS Cloud Practitioner</b></sub>
 </a>
 </td>
-<td align="center" width="16%">
+<td align="center" width="14%">
+<a href="https://www.credly.com/badges/42944fb1-ede1-47dc-b057-70136e421675/public_url">
+<img src="https://images.credly.com/size/110x110/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob" height="72" alt="" />
+<br /><sub><b>AWS Academy Cloud Architecting</b></sub>
+</a>
+</td>
+<td align="center" width="14%">
 <a href="https://skillshop.credential.net/ddca6f3c-53b7-45c4-b689-72f1151fa5dd">
 <img src="https://api.iconify.design/simple-icons/googleads.svg?color=%234285F4" height="56" width="56" alt="" />
 <br /><sub><b>Google Ads Measurement</b></sub>
 </a>
 </td>
-<td align="center" width="16%">
+<td align="center" width="14%">
 <a href="https://www.facebookblueprint.com/student/award/Zefw2DdRUZ7DtbB9pajKZK9B">
 <img src="https://api.iconify.design/simple-icons/meta.svg?color=%230866FF" height="56" width="56" alt="" />
 <br /><sub><b>Meta Ads Manager</b></sub>
 </a>
 </td>
-<td align="center" width="16%">
+<td align="center" width="14%">
 <a href="https://skillshop.credential.net/9ace36d0-ae00-4229-b2ae-2e0a73f985c5#acc.MB3jNPr1">
 <img src="https://api.iconify.design/simple-icons/googleanalytics.svg?color=%23E37400" height="56" width="56" alt="" />
 <br /><sub><b>GA4 Data &amp; Reports</b></sub>
 </a>
 </td>
-<td align="center" width="16%">
+<td align="center" width="14%">
 <a href="https://adsformula.redditforbusiness.com/student/award/o4BcYm7n26Ewj5UYiuzcPhjW">
 <img src="https://api.iconify.design/simple-icons/reddit.svg?color=%23FF4500" height="56" width="56" alt="" />
 <br /><sub><b>Reddit Ads Fundamentals</b></sub>
 </a>
 </td>
-<td align="center" width="16%">
+<td align="center" width="14%">
 <a href="https://skillshop.credential.net/7faa6d75-ea11-4e57-ad0c-f9c50ab76632#acc.zNrM8oRb">
 <img src="https://api.iconify.design/simple-icons/googleanalytics.svg?color=%23E37400" height="56" width="56" alt="" />
 <br /><sub><b>Google Analytics</b></sub>
@@ -813,6 +819,13 @@ A beginner-friendly serverless to-do agent on AWS. Users describe tasks in natur
 <td>Amazon Web Services</td>
 <td>2026</td>
 <td><a href="https://www.credly.com/badges/bf9e73f6-6e87-4edf-99a1-ded35fa13022/public_url">Show credential</a></td>
+</tr>
+<tr>
+<td align="center"><img src="https://api.iconify.design/simple-icons/amazonwebservices.svg?color=%23FF9900" width="26" height="26" alt="" /></td>
+<td><a href="https://www.credly.com/badges/42944fb1-ede1-47dc-b057-70136e421675/public_url"><b>AWS Academy Graduate — Cloud Architecting</b></a></td>
+<td>Amazon Web Services Academy</td>
+<td>Oct 21, 2026</td>
+<td><a href="https://www.credly.com/badges/42944fb1-ede1-47dc-b057-70136e421675/public_url">Show credential</a></td>
 </tr>
 <tr>
 <td align="center"><img src="https://api.iconify.design/simple-icons/googleads.svg?color=%234285F4" width="26" height="26" alt="" /></td>
