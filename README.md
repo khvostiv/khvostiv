@@ -556,13 +556,11 @@ Other services come from AWS Academy labs, certification preparation, and ongoin
 </tr>
 </table>
 
-<p align="center"><sub>Every icon is labelled in text beneath it, so screen readers announce the technology name once. This is a technology inventory spanning industry experience, projects, coursework, labs, certification study, and exploration — not a claim of production experience with every item.</sub></p>
-
 <div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:6D5EF8,100:0D1117&height=3" alt="" /></div>
 
 <div align="center">
 
-## 🚀 Featured Projects
+## Featured Projects
 
 </div>
 
