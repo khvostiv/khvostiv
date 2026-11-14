@@ -564,10 +564,6 @@ Other services come from AWS Academy labs, certification preparation, and ongoin
 
 ## 🚀 Featured Projects
 
-<img width="40%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:6D5EF8,100:0D1117&height=2" alt="" />
-
-<p><em>Selected work across data engineering, cloud AI, and front-end applications.</em></p>
-
 </div>
 
 ### 🏆 [ChequeMate — Financial Resilience Engine](https://github.com/abhishek8524/ChequeMate)
