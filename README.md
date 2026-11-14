@@ -806,63 +806,6 @@ A beginner-friendly serverless to-do agent on AWS. Users describe tasks in natur
 
 <br />
 
-<table>
-<thead>
-<tr><th width="46"></th><th align="left">Certification</th><th align="left">Issuer</th><th align="left">Issued</th><th align="left">Verify</th></tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><img src="https://api.iconify.design/simple-icons/amazonwebservices.svg?color=%23FF9900" width="26" height="26" alt="" /></td>
-<td><a href="https://www.credly.com/badges/bf9e73f6-6e87-4edf-99a1-ded35fa13022/public_url"><b>AWS Certified Cloud Practitioner</b></a></td>
-<td>Amazon Web Services</td>
-<td>2026</td>
-<td><a href="https://www.credly.com/badges/bf9e73f6-6e87-4edf-99a1-ded35fa13022/public_url">Show credential</a></td>
-</tr>
-<tr>
-<td align="center"><img src="https://api.iconify.design/simple-icons/amazonwebservices.svg?color=%23FF9900" width="26" height="26" alt="" /></td>
-<td><a href="https://www.credly.com/badges/42944fb1-ede1-47dc-b057-70136e421675/public_url"><b>AWS Academy Graduate — Cloud Architecting</b></a></td>
-<td>Amazon Web Services Academy</td>
-<td>Oct 21, 2026</td>
-<td><a href="https://www.credly.com/badges/42944fb1-ede1-47dc-b057-70136e421675/public_url">Show credential</a></td>
-</tr>
-<tr>
-<td align="center"><img src="https://api.iconify.design/simple-icons/googleads.svg?color=%234285F4" width="26" height="26" alt="" /></td>
-<td><a href="https://skillshop.credential.net/ddca6f3c-53b7-45c4-b689-72f1151fa5dd"><b>Google Ads Measurement Certification</b></a></td>
-<td>Google Digital Academy (Skillshop)</td>
-<td>Oct 2025</td>
-<td><a href="https://skillshop.credential.net/ddca6f3c-53b7-45c4-b689-72f1151fa5dd">Show credential</a></td>
-</tr>
-<tr>
-<td align="center"><img src="https://api.iconify.design/simple-icons/meta.svg?color=%230866FF" width="26" height="26" alt="" /></td>
-<td><a href="https://www.facebookblueprint.com/student/award/Zefw2DdRUZ7DtbB9pajKZK9B"><b>Meta Ads Manager Learning</b></a></td>
-<td>Meta</td>
-<td>Oct 2025</td>
-<td><a href="https://www.facebookblueprint.com/student/award/Zefw2DdRUZ7DtbB9pajKZK9B">Show credential</a></td>
-</tr>
-<tr>
-<td align="center"><img src="https://api.iconify.design/simple-icons/googleanalytics.svg?color=%23E37400" width="26" height="26" alt="" /></td>
-<td><a href="https://skillshop.credential.net/9ace36d0-ae00-4229-b2ae-2e0a73f985c5#acc.MB3jNPr1"><b>Dive Deeper into GA4 Data and Reports</b></a></td>
-<td>Google Digital Academy (Skillshop)</td>
-<td>May 2025</td>
-<td><a href="https://skillshop.credential.net/9ace36d0-ae00-4229-b2ae-2e0a73f985c5#acc.MB3jNPr1">Show credential</a></td>
-</tr>
-<tr>
-<td align="center"><img src="https://api.iconify.design/simple-icons/reddit.svg?color=%23FF4500" width="26" height="26" alt="" /></td>
-<td><a href="https://adsformula.redditforbusiness.com/student/award/o4BcYm7n26Ewj5UYiuzcPhjW"><b>Reddit Ads Fundamentals Certification</b></a></td>
-<td>Reddit, Inc.</td>
-<td>May 2025</td>
-<td><a href="https://adsformula.redditforbusiness.com/student/award/o4BcYm7n26Ewj5UYiuzcPhjW">Show credential</a></td>
-</tr>
-<tr>
-<td align="center"><img src="https://api.iconify.design/simple-icons/googleanalytics.svg?color=%23E37400" width="26" height="26" alt="" /></td>
-<td><a href="https://skillshop.credential.net/7faa6d75-ea11-4e57-ad0c-f9c50ab76632#acc.zNrM8oRb"><b>Google Analytics Certification</b></a></td>
-<td>Google Digital Academy (Skillshop)</td>
-<td>Feb 2025</td>
-<td><a href="https://skillshop.credential.net/7faa6d75-ea11-4e57-ad0c-f9c50ab76632#acc.zNrM8oRb">Show credential</a></td>
-</tr>
-</tbody>
-</table>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/khvostiv/details/certifications/"><img src="https://img.shields.io/badge/All_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="View all certifications on LinkedIn" /></a>
 </p>
